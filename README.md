@@ -5,3 +5,8 @@ Changelog: 18.09.2019.
 ----------------------
 
 Modified icons in assets folders
+
+Changelog: 12.12.2019.
+---------------------
+
+Redesigned Theme
